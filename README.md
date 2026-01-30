@@ -12,7 +12,7 @@ It includes implementations of common algorithms and data structures.
 - Trees / Graphs (if applicable)
 
 ## Language
-- C / C++ / Java / Python (update based on your coursework)
+- C / C++ / Java / Python 
 
 ## Notes
 This project was completed as part of an academic module.
